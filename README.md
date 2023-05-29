@@ -3,8 +3,8 @@
 <image width="400px" alt="Code poster" align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/priyanshu joshi](https://twitter.com/Priyans07647551?t=g05GQHQPVqg2FxdTpn1e-Q&s=09)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshu joshi" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/priyanshu joshi](https://www.linkedin.com/in/priyanshu-joshi-839a49213)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu joshi" height="30" width="40" /></a>
+<a href="https://twitter.com/Priyans07647551?t=g05GQHQPVqg2FxdTpn1e-Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshu joshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-joshi-839a49213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu joshi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
