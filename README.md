@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Joshi</h1>
-<h3 align="center">A passionate computer science enthusiast from India</h3>
+<h3 align="center">A computer science enthusiast from India</h3>
 <image width="400px" alt="Code poster" align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
